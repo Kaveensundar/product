@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 Netlify deploy Link : https://clinquant-croquembouche-0f793d.netlify.app/
-Contact and user page
+Contact and Product page
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
